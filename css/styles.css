@@ -144,6 +144,7 @@ a {
     display: flex;
     padding-top: 2.5rem;
     flex-direction: column;
+    background: rgba(2,178,232,100);
 }
 
 .footer__nav {
@@ -161,7 +162,7 @@ a {
 /* Form Styles */
 
 .background__gradient--form {
-    background: radial-gradient(133.96% 361.2% at 0% 41.05%, #F0D6EF 0%, #FDFCF9 100%, #F9EBEC 100%);
+    background: radial-gradient(133.96% 361.2% at 0% 41.05%, #F0D6EF 100%, #FDFCF9 100%, #F9EBEC 100%);
     height: 100vh;
 }
 .header__form {
