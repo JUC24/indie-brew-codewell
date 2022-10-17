@@ -177,7 +177,7 @@ a {
 }
 
 .header__arrow img {
-    background-color: rgba(255, 255, 255, 0.87);
+    background-color: rgb(217, 183, 183);
     border: 0.0625rem solid #cdcdcd;
     border-radius: 0.3125rem;
     padding: 0.75rem 1rem;
@@ -199,7 +199,7 @@ a {
 .form__info--box {
     display: flex;
 }
-.form__info--box span{
+.form__info--box span {
     font-weight: bold;
 }
 .form__info p {
@@ -248,8 +248,8 @@ form article span {
 }
 
 form button {
-    background-color: #664EFC;
-    color: #ffff;
+    background-color: #F0D6EF;
+    color: #000;
     border-radius: 0.3125rem;
     padding: 1rem;
     width: 100%;
